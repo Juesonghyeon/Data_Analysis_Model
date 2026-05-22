@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"D:\\\\Data_Analysis-main\" -Recurse -Force)",
+      "Bash(Select-Object -ExpandProperty FullName)"
+    ]
+  }
+}
